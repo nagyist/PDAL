@@ -28,7 +28,7 @@ Example
         },
         {
           "type":"writers.las",
-          "filename":"thinned.las",
+          "filename":"thinned.las"
         }
       ]
     }
